@@ -1,4 +1,11 @@
 # Algorithms
 
-## Hanoi tower
+## Recursion
+
+- Factorial
+- Hanoi tower
+
+## Selection
+
+-
 
